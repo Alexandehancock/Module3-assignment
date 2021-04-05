@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title> Space Jam </title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href="styles.css"
+  </head>
+
+  <body>
+    <header>
+      <h1> Space Jam </h1>
+      <img src="images/cropped space.png">
+
+    </header>
+
+    <main>
+      <article>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/oKNy-MWjkcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <h2> Get Ready to Jam </h2>
+
+        <p> Space Jam is a movie thta mnay children grew up watching and loving. ITs a combination of a sports movie and looney tune greatness. This movie is an hour and forty minutes of action and laughter. </p>
+
+        <p>Click on the images below to find more information about the movie.</p>
+      </article>
+
+      <div class="further-info">
+
+
+        <a href="https://www.spacejam.com/">Visit Space Jam
+          <img src="images/bunny.jpg">
+          <figure>
+    <img src="images/bunny.jpg"
+         alt="About us">
+    <figcaption>About Us</figcaption>
+</figure>
+        </a>
+
+      <a href="screens.html">The Link>
+        <img src="images/bunny.jpg">
+        <figure>
+  <img src="images/s-cover.jpg"
+       alt="About us">
+  <figcaption>About Us </figcaption>
+</figure>
+        </a>
+
+        <a href="Fans.html">The Link>
+
+          <img src="images/S-poster.jpg">
+          <figure>
+    <img src="images/s-cover.jpg"
+         alt="About us">
+    <figcaption>About Us </figcaption>
+  </figure>
+        </a>
+
+        <div class="clearfix"></div>
+      </div>
+
+      <div class="closing-image">
+          <img src="images/space-jam.jpg">
+            <img src="images/SJ-cropped.jpg">
+      </div>
+
+    </main>
+  </body>
+</html>
